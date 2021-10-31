@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\drawable_logo_blue.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\drawable\\logo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\drawable_icono.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\drawable\\icono.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\drawable_logona.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\drawable\\logona.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SdkLpz\\Desktop\\QSoft\\Wearable\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

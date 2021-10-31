@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Copyright (C) 2021 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.wearable.wear.wearverifyremoteapp"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="23"
+23-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="31" />
+24-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml
+25
+26    <application
+26-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:22:5-36:19
+27        android:allowBackup="true"
+27-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:22:18-44
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.6.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\18787e98cb00505ccac6d35a843007de\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:24:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:23:9-41
+33        android:theme="@style/AppThemeCustom" >
+33-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:25:9-46
+34        <activity
+34-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:27:9-34:20
+35            android:name="com.example.android.wearable.wear.wearverifyremoteapp.MainMobileActivity"
+35-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:28:13-47
+36            android:exported="true" >
+36-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:29:13-36
+37            <intent-filter>
+37-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:30:13-33:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:31:17-68
+38-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:32:17-76
+40-->C:\Users\SdkLpz\Desktop\QSoft\Application\src\main\AndroidManifest.xml:32:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\609320fad96cb42655b282349fcec68f\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+44            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+44-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\609320fad96cb42655b282349fcec68f\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+45            android:exported="false"
+45-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\609320fad96cb42655b282349fcec68f\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+46            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+46-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\609320fad96cb42655b282349fcec68f\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+47
+48        <meta-data
+48-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\c9dc3175d5ee9dd4cbb2b549cab358ef\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+49            android:name="com.google.android.gms.version"
+49-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\c9dc3175d5ee9dd4cbb2b549cab358ef\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+50            android:value="@integer/google_play_services_version" />
+50-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\SdkLpz\.gradle\caches\transforms-3\c9dc3175d5ee9dd4cbb2b549cab358ef\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+51    </application>
+52
+53</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QSoft.iml" filepath="$PROJECT_DIR$/.idea/modules/QSoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/QSoft.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/QSoft.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/QSoft.Wearable.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/QSoft.Wearable.iml" />
+    </modules>
+  </component>
+</project>
